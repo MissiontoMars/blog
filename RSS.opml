@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<opml version="1.0">
+ <head>
+  <title>OPML exported from Outlook</title>
+  <dateCreated>Tue, 5 Nov 2013 09:43:36 +0800</dateCreated>
+  <dateModified>Tue, 5 Nov 2013 09:43:36 +0800</dateModified>
+ </head>
+ <body>
+  <outline text="Matrix67: My Blog" type="rss"
+  xmlUrl="http://www.matrix67.com/blog/feed.asp"/>
+  <outline text="Solidot" type="rss"
+  xmlUrl="http://solidot.org.feedsportal.com/c/33236/f/556826/index.rss"/>
+  <outline text="丁的老头 现在是 曾亮 Dot Me" type="rss"
+  xmlUrl="http://www.dingdelaotou.com/feed"/>
+  <outline text="刘未鹏 | Mind Hacks" type="rss" xmlUrl="http://mindhacks.cn/feed/"/>
+  <outline text="寂静之声" type="rss"
+  xmlUrl="http://blog.sina.com.cn/rss/1569777711.xml"/>
+  <outline text="极客公园-GeekPark" type="rss" xmlUrl="http://feeds.geekpark.net/"/>
+  <outline text="犯贱志" type="rss" xmlUrl="http://feed.feedsky.com/fanjian"/>
+  <outline text="阳志平的网志" type="rss" xmlUrl="http://www.yangzhiping.com/feed"/>
+  <outline text="音乐疗养院" type="rss" xmlUrl="http://www.yylyy.org/index.php/feed"/>
+  <outline text="云风的 BLOG" type="rss"
+  xmlUrl="http://blog.codingnow.com/atom.xml"/>
+  <outline text="同胞，請淡定" type="rss"
+  xmlUrl="http://blog.sina.com.cn/rss/1192450902.xml"/>
+  <outline text="东博书院——孔庆东的博客" type="rss"
+  xmlUrl="http://blog.sina.com.cn/rss/1198367585.xml"/>
+  <outline text="柴静" type="rss"
+  xmlUrl="http://blog.sina.com.cn/rss/1219548027.xml"/>
+  <outline text="蒋方舟博客" type="rss"
+  xmlUrl="http://blog.sina.com.cn/rss/1049198655.xml"/>
+  <outline text="韩寒" type="rss"
+  xmlUrl="http://blog.sina.com.cn/rss/1191258123.xml"/>
+  <outline text="奶牛Denny" type="rss"
+  xmlUrl="http://blog.sina.com.cn/rss/1854801324.xml"/>
+  <outline text="木遥的窗子" type="rss" xmlUrl="http://blog.farmostwood.net/feed"/>
+  <outline text="36氪" type="rss"
+  xmlUrl="http://feed.36kr.com/c/33346/f/566026/index.rss"/>
+  <outline text="博客园_新闻" type="rss" xmlUrl="http://news.cnblogs.com/rss"/>
+  <outline text="月光博客" type="rss" xmlUrl="http://feed.williamlong.info"/>
+  <outline text="爱范儿 · Beats of Bits" type="rss"
+  xmlUrl="http://www.ifanr.com/feed"/>
+  <outline text="雷锋网" type="rss" xmlUrl="http://www.leiphone.com/feed"/>
+  <outline text="AI分享站" type="rss" xmlUrl="http://www.aisharing.com/feed"/>
+  <outline text="IT牛人博客聚合网站" type="rss" xmlUrl="http://www.udpwork.com/feed"/>
+  <outline text="4G spaces" type="rss" xmlUrl="http://blog.youxu.info/feed/"/>
+  <outline text="酷壳 - CoolShell.cn" type="rss" xmlUrl="http://coolshell.cn/feed"/>
+  <outline text="阮一峰的网络日志" type="rss"
+  xmlUrl="http://www.ruanyifeng.com/blog/atom.xml"/>
+  <outline text="Sutter’s Mill" type="rss" xmlUrl="http://herbsutter.com/feed/"/>
+  <outline text="Preshing on Programming" type="rss"
+  xmlUrl="http://preshing.com/feed"/>
+ </body>
+</opml>
